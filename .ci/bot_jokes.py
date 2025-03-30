@@ -19,3 +19,4 @@ def get_bot_joke(joke_type='chuck_norris'):
             joke = get_chuck_norris_joke()
             message += " Please enjoy a random joke:  \n" + joke
     return message
+
